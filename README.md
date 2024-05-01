@@ -1,5 +1,10 @@
 ### Hi, I'm Christina! 👋
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+👩🏻‍💻 Technically Innovative and Highly Committed Full Stack Developer   
+🔭 I’m currently working as a Software Engineer  
+🌱 I’m currently learning cutting edge Technologies like public Blockchain (Ethereum,Polygon)  
+💬 Ask me about MERN Stack Technologies  
+📫 How to reach me christinathomas06@gmail.com  
+
 ## 👩🏻‍🎓Education
 
 - **Master of Technology (M.Tech) in VLSI and Embedded Systems(Electronics Specialisation)**  
