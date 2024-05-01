@@ -9,4 +9,4 @@
   Mahatma Gandhi University,Kerala,India  
   Graduated in [2013]
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajinu&theme=dark&show_icons=true)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinajinu&theme=radical&show_icons=true&hide=stars&include_all_commits=true&hide_rank=true)
