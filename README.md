@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi, I'm Christina! 👋
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech
+## Education
 
-<!--
-**christinajinu/christinajinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Master of Technology (M.Tech) in VLSI and Embedded Systems(Electronics Specialisation)**
+  Cochin University of Science and Technology, Kerala, India
+  Graduated in [2015]
+- **Bachlelor of Technology(B.Tech) in Applied Electronics and Instrumentation**
+  Mahatma Gandhi University,Kerala,India
+  Graduated in [2013]
+  
